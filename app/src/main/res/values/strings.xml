@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Linh Kiện Máy Tính</string>
+    <string name="title_activity_thong_tin">Map</string>
+    <string name="prefLoginState">loginstate</string>
+</resources>
